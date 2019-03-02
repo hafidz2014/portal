@@ -18,7 +18,7 @@ defaults:
 topics:
   - name: Statistics
     web_url: https://seeing-theory.brown.edu/basic-probability/index.html
-    image_url: https://github.com/hafidzdaud/portal/blob/master/assets/100px-Fisher_iris_versicolor_sepalwidth.svg.png?raw=true
+    image_url: https://raw.githubusercontent.com/hafidzdaud/portal/master/assets/100px-Fisher_iris_versicolor_sepalwidth.svg.png
 
   - name: CSS
     web_url: https://github.com/topics/css
