@@ -18,7 +18,7 @@ defaults:
 topics:
   - name: Statistics
     web_url: https://seeing-theory.brown.edu/basic-probability/index.html
-    image_url: https://github.com/hafidzdaud/portal/blob/master/assets/1280px-The_Normal_Distribution.svg
+    image_url: https://github.com/hafidzdaud/portal/blob/master/assets/290px-The_Normal_Distribution.svg.png?raw=true
 
   - name: Sass
     web_url: https://github.com/topics/sass
