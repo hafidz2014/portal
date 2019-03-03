@@ -23,3 +23,10 @@ topics:
   - name: Optimization
     web_url: https://www.tandfonline.com/loi/gopt20
     image_url: https://raw.githubusercontent.com/hafidzdaud/portal/master/assets/1024px-Max_paraboloid.svg.png
+  
+  - name: Apache SPARK
+    web_url: https://spark.apache.org/
+    image_url: https://raw.githubusercontent.com/hafidzdaud/portal/master/assets/spark-logo-trademark.png
+    
+    
+    
