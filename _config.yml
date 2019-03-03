@@ -20,6 +20,10 @@ topics:
     web_url: https://seeing-theory.brown.edu/basic-probability/index.html
     image_url: https://raw.githubusercontent.com/hafidzdaud/portal/master/assets/100px-Fisher_iris_versicolor_sepalwidth.svg.png
 
+  - name: Optimization
+    web_url: https://www.tandfonline.com/loi/gopt20
+    image_url: https://raw.githubusercontent.com/hafidzdaud/portal/master/assets/1024px-Max_paraboloid.svg.png
+
   - name: CSS
     web_url: https://github.com/topics/css
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
